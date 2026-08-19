@@ -1,4 +1,4 @@
-#  Customer Behaviour Analysis — SQL Project
+#  Customer Shopping Behaviour Analysis — SQL Project
 
 An **Customer Behaviour Analysis project** built using **PostgreSQL** to analyze customer purchasing behavior, revenue, discounts, product performance, shipping preferences, subscriptions, and customer segments.
 
